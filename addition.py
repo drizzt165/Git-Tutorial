@@ -2,8 +2,10 @@ def add(x,y):
     return(x+y)
     pass
 
-def subtract():
+def subtract(x,y):
+    return(x-y)
     pass
 
-def multiply():
+def multiply(x,y):
+    return(x*y)
     pass
