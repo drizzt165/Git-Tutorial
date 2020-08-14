@@ -9,3 +9,7 @@ def divide(x,y):
 
 def multiply(x,y):
     return(x*y)
+
+x = 5
+y = 7
+print(f'{x} * {y} = {multiply(x,y)}')
