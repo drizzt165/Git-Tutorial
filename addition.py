@@ -1,5 +1,4 @@
-def add(x,y):
-    return(x+y)
+def add():
     pass
 
 def subtract(x,y):
