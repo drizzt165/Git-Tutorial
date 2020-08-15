@@ -10,6 +10,6 @@ def divide(x,y):
 def multiply(x,y):
     return(x*y)
 
-x = input("Enter a number: ")
-y = input("Enter another number: ")
+x = int(input("Enter a number: "))
+y = int(input("Enter another number: "))
 print(f'{x} * {y} = {multiply(x,y)}')
