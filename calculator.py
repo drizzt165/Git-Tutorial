@@ -10,6 +10,11 @@ def divide(x,y):
 def multiply(x,y):
     return(x*y)
 
-x = 5
-y = 7
+
+x = int(input("Enter a number: "))
+y = int(input("Enter another number: "))
 print(f'{x} * {y} = {multiply(x,y)}')
+
+
+print("Anthony made a change")
+
